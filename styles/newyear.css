@@ -108,7 +108,7 @@ h3 {
 
 .watch{
     margin-top: 100px;
-    background-image: url('./images/watch.png');
+    background-image: url('../images/watch.png');
     background-repeat: no-repeat;
     margin-left: 100px;
 }

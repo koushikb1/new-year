@@ -14,7 +14,7 @@
 
 /* heder banner */
 .banner {
-    background-image: url('./images/banner/banner3.png');
+    background-image: url('../images/banner/banner3.png');
     background-repeat: no-repeat;
 
 }
@@ -108,7 +108,7 @@ h3 {
 
 .watch{
     margin-top: 100px;
-    background-image: url(/images/watch.png);
+    background-image: url('../images/watch.png');
     background-repeat: no-repeat;
     margin-left: 100px;
 }

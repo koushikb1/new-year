@@ -1,0 +1,171 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.primary-btn {
+    background-color: aliceblue;
+    color: cornflowerblue;
+    margin-left: 100px;
+    padding: 15px;
+    border: none;
+    border-radius: 10px;
+    margin-bottom: 500px;
+}
+
+/* heder banner */
+.banner {
+    background-image: url('/images/banner/banner3.png');
+    background-repeat: no-repeat;
+
+}
+
+.banner-text {
+    align-items: center;
+    padding-top: 100px;
+
+}
+
+/* header title */
+.header-title {
+    font-weight: 700;
+    font-size: 50px;
+    margin-left: 100px;
+    margin-right: 700px;
+    color: aliceblue;
+
+}
+
+.header-subtitle {
+    color: aliceblue;
+    font-weight: 400px;
+    font-size: 16px;
+    margin-left: 100px;
+    margin-right: 700px;
+}
+
+/* person data */
+.person {
+    display: flex;
+    margin-left: 90px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+
+}
+
+ul {
+    list-style: none;
+
+}
+
+ul li:before {
+    color: green;
+    content: '✓';
+}
+
+.title-person {
+    text-align: center;
+    margin-top: 370px;
+    font-weight: 700;
+    font-size: 40px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+
+}
+
+.person-sub {
+    margin-top: 20px;
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+}
+
+.list {
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+    display: hide;
+}
+
+/* My Plans */
+
+h3 {
+    text-align: center;
+
+}
+
+.plans {
+    display: flex;
+    justify-content: space-around;
+}
+.plan-title{
+    text-align: center;
+    
+    font-size: 30px;
+}
+
+
+/* watch zone */
+
+.watch{
+    margin-top: 100px;
+    background-image: url(/images/watch.png);
+    background-repeat: no-repeat;
+    margin-left: 100px;
+}
+.watch-title{
+    text-align: left;
+    padding-top: 70px;
+    margin-left: 60px;
+    color: aliceblue;
+}
+
+/* Footer section */
+.future {
+    text-align: left;
+    margin-left: 100px;
+}
+
+.future-sub {
+    margin-left: 100px;
+    margin-right: 600px;
+    font-size: 15px;
+
+}
+
+.icon {
+    margin-left: 100px;
+    size: 10px;
+}
+
+h5 {
+    margin-left: 100px;
+}
+
+.footer-continer {
+    color: aliceblue;
+    background-color: rgb(55, 56, 56);
+    display: flex;
+    margin-top: 20px;
+    padding: 50px;
+}
+
+.subscribe {
+    background-color: rgb(202, 0, 61);
+    color: rgb(255, 255, 255);
+    padding: 15px;
+    border: none;
+    border-radius: 10px;
+    margin-top: 5px;
+
+}
+
+.email {
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #444343;
+    border-color: wheat;
+}
+
+h3 {
+    margin-right: 100px;
+}
